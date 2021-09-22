@@ -1,0 +1,2 @@
+# DigitalCoin
+Sample crypto coin
